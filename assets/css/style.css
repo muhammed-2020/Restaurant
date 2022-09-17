@@ -312,7 +312,7 @@ header nav ul li a:hover {
   }
   .about .about-img .box .img-1 {
     position: absolute;
-    top: -30px;
+    top: -50px;
     left: 0;
     width: 600px;
     z-index: 2;
@@ -372,7 +372,7 @@ header nav ul li a:hover {
 
 /* Start Menu */
 .menu .container {
-  padding: 0;
+  /* padding: 0; */
 }
 .menu .container h2 {
   font-size: 35px;
